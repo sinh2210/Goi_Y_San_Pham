@@ -1,0 +1,21 @@
+product_id,num_ratings,name,category,brand,price,rating,features,description,avg_rating
+P0229,11,Acer Laptop 734,Laptop,Acer,33924000.0,4.0,"card rời, i7 Gen 12",card rời i7 Gen 12 với chất lượng vượt trội,3.1818181818181817
+P0315,9,UGREEN Dây sạc 521,Dây sạc,UGREEN,12509000.0,5.0,"dài 1m, sạc nhanh",dài 1m sạc nhanh với chất lượng vượt trội,2.4444444444444446
+P0437,8,Samsung Điện thoại 325,Điện thoại,Samsung,49324000.0,4.4,"sạc nhanh, camera kép",sạc nhanh camera kép với chất lượng vượt trội,4.125
+P0375,8,Anker Dây sạc 168,Dây sạc,Anker,28468000.0,3.4,"bọc dù, Lightning",bọc dù Lightning với chất lượng vượt trội,3.125
+P0668,8,Samsung Sạc dự phòng 985,Sạc dự phòng,Samsung,39566000.0,3.6,"20000mAh, mỏng nhẹ",20000mAh mỏng nhẹ với chất lượng vượt trội,3.125
+P0432,8,Xiaomi Sạc dự phòng 118,Sạc dự phòng,Xiaomi,39531000.0,4.4,"sạc nhanh, mỏng nhẹ",sạc nhanh mỏng nhẹ với chất lượng vượt trội,3.125
+P0050,8,Apple Đồng hồ thông minh 875,Đồng hồ thông minh,Apple,1445000.0,3.1,"GPS, theo dõi giấc ngủ",GPS theo dõi giấc ngủ với chất lượng vượt trội,3.125
+P0594,8,Nikon Máy ảnh 629,Máy ảnh,Nikon,11835000.0,3.5,"24MP, quay 4K",24MP quay 4K với chất lượng vượt trội,3.0
+P0567,8,Dell Laptop 980,Laptop,Dell,36569000.0,5.0,"màn hình 15 inch, RAM 16GB",màn hình 15 inch RAM 16GB với chất lượng vượt trội,3.0
+P0617,8,Huawei Đồng hồ thông minh 455,Đồng hồ thông minh,Huawei,12104000.0,4.9,"GPS, đo nhịp tim",GPS đo nhịp tim với chất lượng vượt trội,2.875
+P0462,8,Asus Laptop 847,Laptop,Asus,31378000.0,3.5,"màn hình 15 inch, SSD 512GB",màn hình 15 inch SSD 512GB với chất lượng vượt trội,2.875
+P0522,8,Panasonic Máy ảnh 306,Máy ảnh,Panasonic,45890000.0,3.8,"quay 4K, chống rung",quay 4K chống rung với chất lượng vượt trội,2.875
+P0481,8,Samsung Đồng hồ thông minh 850,Đồng hồ thông minh,Samsung,35426000.0,3.7,"đo nhịp tim, GPS",đo nhịp tim GPS với chất lượng vượt trội,2.0
+P0512,7,Panasonic Máy ảnh 409,Máy ảnh,Panasonic,5870000.0,4.9,"ống kính rời, quay 4K",ống kính rời quay 4K với chất lượng vượt trội,4.285714285714286
+P0124,7,HP Laptop 163,Laptop,HP,32314000.0,4.3,"card rời, RAM 16GB",card rời RAM 16GB với chất lượng vượt trội,3.857142857142857
+P0077,7,Oppo Điện thoại 867,Điện thoại,Oppo,44277000.0,3.8,"5G, camera kép",5G camera kép với chất lượng vượt trội,3.2857142857142856
+P0563,7,HP PC để bàn 842,PC để bàn,HP,24126000.0,3.6,"SSD 1TB, RAM 16GB",SSD 1TB RAM 16GB với chất lượng vượt trội,3.2857142857142856
+P0681,7,Lenovo Laptop 466,Laptop,Lenovo,47675000.0,4.8,"màn hình 15 inch, SSD 512GB",màn hình 15 inch SSD 512GB với chất lượng vượt trội,3.142857142857143
+P0619,7,Anker Dây sạc 913,Dây sạc,Anker,26915000.0,3.8,"sạc nhanh, USB-C",sạc nhanh USB-C với chất lượng vượt trội,3.142857142857143
+P0080,7,Amazfit Đồng hồ thông minh 837,Đồng hồ thông minh,Amazfit,27986000.0,3.7,"đo nhịp tim, màn hình AMOLED",đo nhịp tim màn hình AMOLED với chất lượng vượt trội,3.0

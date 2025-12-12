@@ -1,0 +1,101 @@
+product_id,name,category,brand,price,rating,features,description
+P0519,Realme Điện thoại 629,Điện thoại,Realme,18027000.0,3.0,"màn hình AMOLED, 5G",màn hình AMOLED 5G với chất lượng vượt trội
+P0584,Anker Sạc dự phòng 285,Sạc dự phòng,Anker,47842000.0,4.9,"mỏng nhẹ, 20000mAh",mỏng nhẹ 20000mAh với chất lượng vượt trội
+P0435,Xiaomi Tai nghe 849,Tai nghe,Xiaomi,13091000.0,3.5,"in-ear, pin 20h",in-ear pin 20h với chất lượng vượt trội
+P0664,HP PC để bàn 316,PC để bàn,HP,10728000.0,4.4,"RAM 16GB, Intel i5",RAM 16GB Intel i5 với chất lượng vượt trội
+P0689,Asus PC để bàn 137,PC để bàn,Asus,37922000.0,3.4,"Intel i5, SSD 1TB",Intel i5 SSD 1TB với chất lượng vượt trội
+P0516,Dell PC để bàn 445,PC để bàn,Dell,40609000.0,3.2,"Intel i5, Windows 11",Intel i5 Windows 11 với chất lượng vượt trội
+P0229,Acer Laptop 734,Laptop,Acer,33924000.0,4.0,"card rời, i7 Gen 12",card rời i7 Gen 12 với chất lượng vượt trội
+P0620,Samsung Điện thoại 130,Điện thoại,Samsung,29391000.0,4.0,"pin trâu, màn hình AMOLED",pin trâu màn hình AMOLED với chất lượng vượt trội
+P0120,UGREEN Dây sạc 297,Dây sạc,UGREEN,40616000.0,3.3,"Lightning, USB-C",Lightning USB-C với chất lượng vượt trội
+P0201,Baseus Dây sạc 940,Dây sạc,Baseus,40361000.0,3.4,"dài 1m, bọc dù",dài 1m bọc dù với chất lượng vượt trội
+P0276,Asus Laptop 739,Laptop,Asus,14702000.0,4.4,"i7 Gen 12, SSD 512GB",i7 Gen 12 SSD 512GB với chất lượng vượt trội
+P0629,Panasonic Máy ảnh 863,Máy ảnh,Panasonic,37009000.0,3.8,"24MP, chống rung",24MP chống rung với chất lượng vượt trội
+P0077,Oppo Điện thoại 867,Điện thoại,Oppo,44277000.0,3.8,"5G, camera kép",5G camera kép với chất lượng vượt trội
+P0560,Panasonic Máy ảnh 513,Máy ảnh,Panasonic,22825000.0,3.2,"quay 4K, 24MP",quay 4K 24MP với chất lượng vượt trội
+P0203,Apple Đồng hồ thông minh 408,Đồng hồ thông minh,Apple,42279000.0,4.1,"theo dõi giấc ngủ, màn hình AMOLED",theo dõi giấc ngủ màn hình AMOLED với chất lượng vượt trội
+P0285,Xiaomi Dây sạc 983,Dây sạc,Xiaomi,30727000.0,3.9,"USB-C, dài 1m",USB-C dài 1m với chất lượng vượt trội
+P0437,Samsung Điện thoại 325,Điện thoại,Samsung,49324000.0,4.4,"sạc nhanh, camera kép",sạc nhanh camera kép với chất lượng vượt trội
+P0457,Realme Điện thoại 383,Điện thoại,Realme,13185000.0,4.2,"camera kép, sạc nhanh",camera kép sạc nhanh với chất lượng vượt trội
+P0073,MSI Laptop 367,Laptop,MSI,5436000.0,3.2,"màn hình 15 inch, SSD 512GB",màn hình 15 inch SSD 512GB với chất lượng vượt trội
+P0512,Panasonic Máy ảnh 409,Máy ảnh,Panasonic,5870000.0,4.9,"ống kính rời, quay 4K",ống kính rời quay 4K với chất lượng vượt trội
+P0299,Anker Sạc dự phòng 565,Sạc dự phòng,Anker,25338000.0,3.6,"10000mAh, 2 cổng USB",10000mAh 2 cổng USB với chất lượng vượt trội
+P0389,Apple Đồng hồ thông minh 327,Đồng hồ thông minh,Apple,42221000.0,4.2,"đo nhịp tim, màn hình AMOLED",đo nhịp tim màn hình AMOLED với chất lượng vượt trội
+P0506,Panasonic Máy ảnh 184,Máy ảnh,Panasonic,43516000.0,3.2,"ống kính rời, lấy nét nhanh",ống kính rời lấy nét nhanh với chất lượng vượt trội
+P0622,Acer PC để bàn 853,PC để bàn,Acer,15587000.0,3.2,"card đồ họa, Windows 11",card đồ họa Windows 11 với chất lượng vượt trội
+P0068,Sony Tai nghe 165,Tai nghe,Sony,1799000.0,4.1,"in-ear, sạc nhanh",in-ear sạc nhanh với chất lượng vượt trội
+P0462,Asus Laptop 847,Laptop,Asus,31378000.0,3.5,"màn hình 15 inch, SSD 512GB",màn hình 15 inch SSD 512GB với chất lượng vượt trội
+P0589,Dell PC để bàn 821,PC để bàn,Dell,39332000.0,4.6,"Intel i5, Windows 11",Intel i5 Windows 11 với chất lượng vượt trội
+P0129,Anker Dây sạc 627,Dây sạc,Anker,42209000.0,4.7,"Lightning, sạc nhanh",Lightning sạc nhanh với chất lượng vượt trội
+P0004,UGREEN Dây sạc 535,Dây sạc,UGREEN,32786000.0,4.0,"USB-C, Lightning",USB-C Lightning với chất lượng vượt trội
+P0499,Realme Điện thoại 621,Điện thoại,Realme,35264000.0,3.4,"sạc nhanh, màn hình AMOLED",sạc nhanh màn hình AMOLED với chất lượng vượt trội
+P0207,UGREEN Dây sạc 104,Dây sạc,UGREEN,28764000.0,4.9,"Lightning, sạc nhanh",Lightning sạc nhanh với chất lượng vượt trội
+P0518,Asus PC để bàn 244,PC để bàn,Asus,20113000.0,4.5,"SSD 1TB, RAM 16GB",SSD 1TB RAM 16GB với chất lượng vượt trội
+P0080,Amazfit Đồng hồ thông minh 837,Đồng hồ thông minh,Amazfit,27986000.0,3.7,"đo nhịp tim, màn hình AMOLED",đo nhịp tim màn hình AMOLED với chất lượng vượt trội
+P0625,Panasonic Máy ảnh 870,Máy ảnh,Panasonic,7550000.0,4.5,"24MP, chống rung",24MP chống rung với chất lượng vượt trội
+P0088,Amazfit Đồng hồ thông minh 356,Đồng hồ thông minh,Amazfit,36528000.0,4.6,"kháng nước, màn hình AMOLED",kháng nước màn hình AMOLED với chất lượng vượt trội
+P0619,Anker Dây sạc 913,Dây sạc,Anker,26915000.0,3.8,"sạc nhanh, USB-C",sạc nhanh USB-C với chất lượng vượt trội
+P0187,Sony Tai nghe 570,Tai nghe,Sony,14248000.0,4.3,"bluetooth 5.0, chống ồn",bluetooth 5.0 chống ồn với chất lượng vượt trội
+P0366,JBL Tai nghe 339,Tai nghe,JBL,38976000.0,3.4,"chống ồn, bluetooth 5.0",chống ồn bluetooth 5.0 với chất lượng vượt trội
+P0627,Sony Máy ảnh 265,Máy ảnh,Sony,30372000.0,4.6,"24MP, quay 4K",24MP quay 4K với chất lượng vượt trội
+P0017,Dell Laptop 407,Laptop,Dell,45107000.0,4.3,"RAM 16GB, i7 Gen 12",RAM 16GB i7 Gen 12 với chất lượng vượt trội
+P0289,Energizer Sạc dự phòng 499,Sạc dự phòng,Energizer,13058000.0,4.8,"sạc nhanh, mỏng nhẹ",sạc nhanh mỏng nhẹ với chất lượng vượt trội
+P0522,Panasonic Máy ảnh 306,Máy ảnh,Panasonic,45890000.0,3.8,"quay 4K, chống rung",quay 4K chống rung với chất lượng vượt trội
+P0288,Xiaomi Dây sạc 169,Dây sạc,Xiaomi,9366000.0,3.6,"bọc dù, USB-C",bọc dù USB-C với chất lượng vượt trội
+P0495,Samsung Đồng hồ thông minh 527,Đồng hồ thông minh,Samsung,892000.0,4.0,"đo nhịp tim, GPS",đo nhịp tim GPS với chất lượng vượt trội
+P0696,Sony Máy ảnh 816,Máy ảnh,Sony,37602000.0,4.5,"chống rung, 24MP",chống rung 24MP với chất lượng vượt trội
+P0567,Dell Laptop 980,Laptop,Dell,36569000.0,5.0,"màn hình 15 inch, RAM 16GB",màn hình 15 inch RAM 16GB với chất lượng vượt trội
+P0094,Samsung Điện thoại 553,Điện thoại,Samsung,5838000.0,3.6,"pin trâu, camera kép",pin trâu camera kép với chất lượng vượt trội
+P0661,Panasonic Máy ảnh 594,Máy ảnh,Panasonic,34756000.0,4.2,"quay 4K, 24MP",quay 4K 24MP với chất lượng vượt trội
+P0026,JBL Tai nghe 738,Tai nghe,JBL,4127000.0,4.1,"chống ồn, pin 20h",chống ồn pin 20h với chất lượng vượt trội
+P0176,Acer Laptop 669,Laptop,Acer,7000000.0,4.0,"SSD 512GB, RAM 16GB",SSD 512GB RAM 16GB với chất lượng vượt trội
+P0594,Nikon Máy ảnh 629,Máy ảnh,Nikon,11835000.0,3.5,"24MP, quay 4K",24MP quay 4K với chất lượng vượt trội
+P0315,UGREEN Dây sạc 521,Dây sạc,UGREEN,12509000.0,5.0,"dài 1m, sạc nhanh",dài 1m sạc nhanh với chất lượng vượt trội
+P0158,HP Laptop 850,Laptop,HP,40308000.0,3.7,"màn hình 15 inch, card rời",màn hình 15 inch card rời với chất lượng vượt trội
+P0657,MSI PC để bàn 446,PC để bàn,MSI,1267000.0,3.3,"Windows 11, RAM 16GB",Windows 11 RAM 16GB với chất lượng vượt trội
+P0066,UGREEN Dây sạc 850,Dây sạc,UGREEN,11123000.0,3.4,"USB-C, Lightning",USB-C Lightning với chất lượng vượt trội
+P0263,Xiaomi Điện thoại 314,Điện thoại,Xiaomi,25205000.0,3.1,"pin trâu, sạc nhanh",pin trâu sạc nhanh với chất lượng vượt trội
+P0693,Baseus Dây sạc 736,Dây sạc,Baseus,47305000.0,4.4,"dài 1m, sạc nhanh",dài 1m sạc nhanh với chất lượng vượt trội
+P0340,Apple Tai nghe 985,Tai nghe,Apple,40119000.0,3.9,"bluetooth 5.0, sạc nhanh",bluetooth 5.0 sạc nhanh với chất lượng vượt trội
+P0505,MSI PC để bàn 883,PC để bàn,MSI,31746000.0,4.7,"card đồ họa, Windows 11",card đồ họa Windows 11 với chất lượng vượt trội
+P0423,Amazfit Đồng hồ thông minh 299,Đồng hồ thông minh,Amazfit,16572000.0,4.1,"màn hình AMOLED, đo nhịp tim",màn hình AMOLED đo nhịp tim với chất lượng vượt trội
+P0062,Samsung Sạc dự phòng 887,Sạc dự phòng,Samsung,2339000.0,4.0,"sạc nhanh, mỏng nhẹ",sạc nhanh mỏng nhẹ với chất lượng vượt trội
+P0092,Xiaomi Tai nghe 810,Tai nghe,Xiaomi,39349000.0,4.0,"sạc nhanh, in-ear",sạc nhanh in-ear với chất lượng vượt trội
+P0447,Energizer Sạc dự phòng 271,Sạc dự phòng,Energizer,39386000.0,4.9,"sạc nhanh, 10000mAh",sạc nhanh 10000mAh với chất lượng vượt trội
+P0535,Acer PC để bàn 578,PC để bàn,Acer,25137000.0,3.5,"card đồ họa, RAM 16GB",card đồ họa RAM 16GB với chất lượng vượt trội
+P0659,Energizer Sạc dự phòng 654,Sạc dự phòng,Energizer,34825000.0,4.2,"10000mAh, 2 cổng USB",10000mAh 2 cổng USB với chất lượng vượt trội
+P0251,Apple Tai nghe 609,Tai nghe,Apple,44000000.0,3.1,"bluetooth 5.0, pin 20h",bluetooth 5.0 pin 20h với chất lượng vượt trội
+P0646,HP PC để bàn 199,PC để bàn,HP,39030000.0,4.0,"card đồ họa, Windows 11",card đồ họa Windows 11 với chất lượng vượt trội
+P0583,Samsung Tai nghe 680,Tai nghe,Samsung,49094000.0,4.3,"bluetooth 5.0, chống ồn",bluetooth 5.0 chống ồn với chất lượng vượt trội
+P0064,Samsung Tai nghe 586,Tai nghe,Samsung,13120000.0,3.9,"chống ồn, in-ear",chống ồn in-ear với chất lượng vượt trội
+P0513,Sony Tai nghe 724,Tai nghe,Sony,24002000.0,4.3,"chống ồn, sạc nhanh",chống ồn sạc nhanh với chất lượng vượt trội
+P0365,Samsung Điện thoại 865,Điện thoại,Samsung,43252000.0,4.5,"sạc nhanh, pin trâu",sạc nhanh pin trâu với chất lượng vượt trội
+P0563,HP PC để bàn 842,PC để bàn,HP,24126000.0,3.6,"SSD 1TB, RAM 16GB",SSD 1TB RAM 16GB với chất lượng vượt trội
+P0192,Baseus Sạc dự phòng 529,Sạc dự phòng,Baseus,43802000.0,4.0,"mỏng nhẹ, 2 cổng USB",mỏng nhẹ 2 cổng USB với chất lượng vượt trội
+P0432,Xiaomi Sạc dự phòng 118,Sạc dự phòng,Xiaomi,39531000.0,4.4,"sạc nhanh, mỏng nhẹ",sạc nhanh mỏng nhẹ với chất lượng vượt trội
+P0654,Xiaomi Tai nghe 101,Tai nghe,Xiaomi,32147000.0,4.9,"pin 20h, sạc nhanh",pin 20h sạc nhanh với chất lượng vượt trội
+P0013,Xiaomi Sạc dự phòng 348,Sạc dự phòng,Xiaomi,26342000.0,3.8,"mỏng nhẹ, sạc nhanh",mỏng nhẹ sạc nhanh với chất lượng vượt trội
+P0534,Xiaomi Điện thoại 313,Điện thoại,Xiaomi,12887000.0,3.4,"sạc nhanh, camera kép",sạc nhanh camera kép với chất lượng vượt trội
+P0695,Panasonic Máy ảnh 414,Máy ảnh,Panasonic,6092000.0,4.4,"24MP, ống kính rời",24MP ống kính rời với chất lượng vượt trội
+P0481,Samsung Đồng hồ thông minh 850,Đồng hồ thông minh,Samsung,35426000.0,3.7,"đo nhịp tim, GPS",đo nhịp tim GPS với chất lượng vượt trội
+P0527,Anker Sạc dự phòng 358,Sạc dự phòng,Anker,7172000.0,4.2,"sạc nhanh, mỏng nhẹ",sạc nhanh mỏng nhẹ với chất lượng vượt trội
+P0509,Samsung Tai nghe 830,Tai nghe,Samsung,11280000.0,3.3,"chống ồn, bluetooth 5.0",chống ồn bluetooth 5.0 với chất lượng vượt trội
+P0478,Xiaomi Đồng hồ thông minh 301,Đồng hồ thông minh,Xiaomi,36964000.0,3.3,"đo nhịp tim, theo dõi giấc ngủ",đo nhịp tim theo dõi giấc ngủ với chất lượng vượt trội
+P0676,Acer PC để bàn 338,PC để bàn,Acer,2283000.0,3.2,"Windows 11, card đồ họa",Windows 11 card đồ họa với chất lượng vượt trội
+P0595,Fujifilm Máy ảnh 560,Máy ảnh,Fujifilm,6111000.0,3.9,"ống kính rời, lấy nét nhanh",ống kính rời lấy nét nhanh với chất lượng vượt trội
+P0375,Anker Dây sạc 168,Dây sạc,Anker,28468000.0,3.4,"bọc dù, Lightning",bọc dù Lightning với chất lượng vượt trội
+P0668,Samsung Sạc dự phòng 985,Sạc dự phòng,Samsung,39566000.0,3.6,"20000mAh, mỏng nhẹ",20000mAh mỏng nhẹ với chất lượng vượt trội
+P0244,Lenovo Laptop 449,Laptop,Lenovo,17788000.0,4.3,"RAM 16GB, SSD 512GB",RAM 16GB SSD 512GB với chất lượng vượt trội
+P0372,Anker Dây sạc 611,Dây sạc,Anker,24731000.0,4.5,"sạc nhanh, bọc dù",sạc nhanh bọc dù với chất lượng vượt trội
+P0681,Lenovo Laptop 466,Laptop,Lenovo,47675000.0,4.8,"màn hình 15 inch, SSD 512GB",màn hình 15 inch SSD 512GB với chất lượng vượt trội
+P0520,Apple Đồng hồ thông minh 392,Đồng hồ thông minh,Apple,17158000.0,3.3,"theo dõi giấc ngủ, đo nhịp tim",theo dõi giấc ngủ đo nhịp tim với chất lượng vượt trội
+P0282,Amazfit Đồng hồ thông minh 247,Đồng hồ thông minh,Amazfit,47132000.0,4.9,"màn hình AMOLED, kháng nước",màn hình AMOLED kháng nước với chất lượng vượt trội
+P0025,Realme Điện thoại 248,Điện thoại,Realme,28102000.0,4.5,"sạc nhanh, camera kép",sạc nhanh camera kép với chất lượng vượt trội
+P0050,Apple Đồng hồ thông minh 875,Đồng hồ thông minh,Apple,1445000.0,3.1,"GPS, theo dõi giấc ngủ",GPS theo dõi giấc ngủ với chất lượng vượt trội
+P0514,Oppo Điện thoại 801,Điện thoại,Oppo,16221000.0,3.6,"màn hình AMOLED, 5G",màn hình AMOLED 5G với chất lượng vượt trội
+P0124,HP Laptop 163,Laptop,HP,32314000.0,4.3,"card rời, RAM 16GB",card rời RAM 16GB với chất lượng vượt trội
+P0420,Samsung Tai nghe 407,Tai nghe,Samsung,44763000.0,4.6,"chống ồn, bluetooth 5.0",chống ồn bluetooth 5.0 với chất lượng vượt trội
+P0443,Apple Tai nghe 124,Tai nghe,Apple,45613000.0,3.4,"in-ear, sạc nhanh",in-ear sạc nhanh với chất lượng vượt trội
+P0190,Lenovo Laptop 800,Laptop,Lenovo,24273000.0,3.5,"card rời, i7 Gen 12",card rời i7 Gen 12 với chất lượng vượt trội
+P0617,Huawei Đồng hồ thông minh 455,Đồng hồ thông minh,Huawei,12104000.0,4.9,"GPS, đo nhịp tim",GPS đo nhịp tim với chất lượng vượt trội
+P0114,Samsung Sạc dự phòng 109,Sạc dự phòng,Samsung,13434000.0,3.1,"2 cổng USB, sạc nhanh",2 cổng USB sạc nhanh với chất lượng vượt trội

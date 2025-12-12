@@ -1,0 +1,6 @@
+powershell -ExecutionPolicy Bypass -Command "npm install -g pnpm"
+powershell -ExecutionPolicy Bypass -Command "pnpm install"
+powershell -ExecutionPolicy Bypass -Command "pnpm dev"
+
+
+http://localhost:3000
