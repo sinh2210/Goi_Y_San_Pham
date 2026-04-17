@@ -1,0 +1,67 @@
+# ===========================
+# Next.js build output
+# ===========================
+.next/
+out/
+dist/
+
+# ===========================
+# Node modules
+# ===========================
+node_modules/
+.pnpm-store/
+
+# ===========================
+# Package manager locks (giữ pnpm-lock.yaml, bỏ qua lock khác)
+# ===========================
+package-lock.json
+yarn.lock
+
+# ===========================
+# Environment variables
+# ===========================
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ===========================
+# IDE & Editor
+# ===========================
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ===========================
+# OS
+# ===========================
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ===========================
+# Python
+# ===========================
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# ===========================
+# Logs
+# ===========================
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ===========================
+# TypeScript
+# ===========================
+*.tsbuildinfo
+next-env.d.ts
