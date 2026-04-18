@@ -1,4 +1,4 @@
-# 🛒 Hệ Thống Gợi Ý Sản Phẩm – ElectroShop
+# 🛒 Gợi Ý Sản Phẩm – ElectroShop
 
 <div align="center">
 
